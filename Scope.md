@@ -1,4 +1,4 @@
-## 1. Scope / Scenario
+# 1. Scope / Scenario
 
 I've chosen fictitious financial services for this, as it occured to me the most important reasoning behind these controls and environment set up is the **why**.
 This is the case sceanario:
@@ -11,36 +11,36 @@ This is the case sceanario:
 ---
 ToDo:
 
-# 2. Key Objectives / Success Criteria
+## 2. Key Objectives / Success Criteria
 
 - Define objectives and success criteria - what will exist, and how I'll know each phase actually worked
 
 ---
 
-# 3. In-scope / Out-scope
+## 3. In-scope / Out-scope
 
 - Define in-scope and out-of-scope explicitly (e.g. in scope: Entra ID tenant, one Azure subscription, Key Vault; out of scope: on-prem AD, physical security, HR systems)
 
 ---
 
-# 4. Architecture Diagram
+## 4. Architecture Diagram
 
 - logical identity architecture diagram: tenant, account tiers, group structure, PIM-eligible roles
 
 ---
 
-# 5. Trust-Zone Diagram
+## 5. Trust-Zone Diagram
 
 - trust-zone diagram: named locations, Conditional Access zones, what's trusted vs untrusted
 
 ---
 
-# 6. Current-State VS Target-State
+## 6. Current-State VS Target-State
 - current-state vs target-state diagram  (simple one - "before: N standing admins, 0 MFA enforcement" vs "after: 0 standing admins, PIM-eligible only, MFA everywhere")
 
 ---
 
-#7. Regulatory Map
+## 7. Regulatory Map
 
 - Build the regulatory mapping table
 
