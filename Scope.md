@@ -13,8 +13,6 @@ ToDo:
 
 ## 2. Key Objectives / Success Criteria
 
-- Define objectives and success criteria - what will exist, and how I'll know each phase actually worked
-
 [Phase 0: Scope] - Define the scope, problem scenario, and propose plan of action.
 
 [Phase 1 - Entra ID Foundation] - Stand up the tenant, licensing, baseline population, and the account-tiering model everything else in the project sits on.
